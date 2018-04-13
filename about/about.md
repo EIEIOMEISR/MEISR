@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Sung
 
-rest of bio
+Hello, I am a Computer Science major from Pennsylvania and will be graduating from the University of Alabama in the Fall of 2018. Roll Tide.
 
 ### Kevin
 
