@@ -4,22 +4,24 @@ permalink: /about/
 
 ## About Us
 
-### Sung
+### Sungkyun Kim
 
-Hello, I am a Computer Science major from Pennsylvania and will be graduating from the University of Alabama in the Fall of 2018. Roll Tide.
+Sung is a Computer Science major from Pennsylvania and will be graduating from the University of Alabama in the Fall of 2018. Roll Tide.
 
-### Kevin
+### Kevin Ziegler
 
-rest of bio
+Kevin is a Computer Science major from Bowling Green, Kentucky. He Graduated from the University of Alabama in May, 2018.
 
-### Chase
+### Chase Feaster
 
-rest of bio
+Chase is a Computer Science major from Florida. He graduated from the University of Alabama in May, 2018.
 
-### Stephen
+### Stephen Bowles
 
-rest of bio
+Stephen is a Computer Science major from Michigan. He graduated from the University of Alabama in May 2018.
 
-### John
+### John Andrews
 
-rest of bio
+John is a Computer Science major from Dayton, Ohio. He Graduated from the University of Alabama in May, 2018.
+
+
