@@ -8,13 +8,7 @@ permalink: /deliverables/
 
 [Design Document](https://github.com/EIEIOMEISR/MEISR/blob/master/design-doc/MEISR%20Design%20Document.pdf)
 
-[Download APK](https://eieiomeisr.github.io/MEISR/)
+[Download APK](https://github.com/EIEIOMEISR/MEISR/blob/master/deliverables/app-debug.apk)
 
-[Web Source Code](https://github.com/EIEIOMEISR/MEISR-Web)
-<!---
-[Presentation](https://github.com/skkim99/MEISR/blob/master/docs/requirements-doc/meisr-requirements-doc%20.pdf)
---->
-<!---
-[Source Code](https://github.com/skkim99/MEISR/blob/master/docs/requirements-doc/meisr-requirements-doc%20.pdf)
---->
+[Web Source Code](https://github.com/EIEIOMEISR)
 
