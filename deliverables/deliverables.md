@@ -14,7 +14,7 @@ permalink: /deliverables/
 
 [Final Presentation](https://github.com/EIEIOMEISR/MEISR/blob/master/deliverables/EIEIO%20Final%20Presentation.pptx)
 
-[Download APK](https://github.com/EIEIOMEISR/MEISR/blob/master/deliverables/app-debug.apk)
+[Download APK](https://github.com/EIEIOMEISR/MEISR-Android/blob/master/app-debug.apk)
 
 [View Source Code](https://github.com/EIEIOMEISR)
 
