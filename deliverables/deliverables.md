@@ -16,5 +16,7 @@ permalink: /deliverables/
 
 [Download APK](https://github.com/EIEIOMEISR/MEISR-Android/blob/master/app-debug.apk)
 
+[MEISR Site](http://www.meisr.org/)
+
 [View Source Code](https://github.com/EIEIOMEISR)
 
